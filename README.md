@@ -1,6 +1,6 @@
 # VlansCisco
 
-## Pas 1
+## Pas 1
 
 ### Switch esquerra 
 > vlan 10
@@ -19,7 +19,7 @@
 > name secre
 
 
-## Pas 2
+## Pas 2
 
 ### Switch esquerra 
 > int fa0/2
@@ -44,7 +44,7 @@
 > switchport access vlan 30
 
 
-## Pas 3
+## Pas 3
 
 ### Switch esquerra 
 > int fa0/1
